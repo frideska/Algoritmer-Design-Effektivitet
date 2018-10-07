@@ -1,0 +1,11 @@
+interweb: 
+(interweb)
+internet: 
+(inter(net)(web))
+inter: 
+(inter(net)(web))
+inside: 
+(in(side)(ter(net)(web)))
+interweb YES
+inter YES
+in NO
